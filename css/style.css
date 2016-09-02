@@ -1,0 +1,32 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
+body {
+  font-family: 'Roboto', sans-serif;
+}
+#feedback {
+  background:#d9edf7;
+  color:#31708f;
+  padding:10px 0 0 0;
+}
+.container {
+  max-width:925px;
+}
+h1 {
+  position:relative;
+  font-size:18px;
+  font-weight:400;
+  margin:0 0 5px 0;
+  padding:22px 0 22px 50px;
+}
+h1 img {
+  width:45px;
+  position:absolute;
+  top:10px;
+  left:0px;
+}
+form {
+  margin:0 0 15px 0;
+}
+#loader {}
+#blacklist, #replaced {
+  word-wrap: break-word;
+}
