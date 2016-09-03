@@ -1,4 +1,4 @@
-# max-1000-ord
+# [eli5](https://www.reddit.com/r/explainlikeimfive/)
 Translate your text by a list of 1000 simple everyday words. Inspired by the [thing explainer](https://xkcd.com/thing-explainer/) but in Swedish - using [this](http://rl.se/tusen.html) whitelist.
 
 # usage
