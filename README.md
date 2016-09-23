@@ -4,7 +4,7 @@ Translate your text by a list of 1000 simple everyday words. Inspired by the [th
 # usage
 - add your text
 - get a blacklist
-- optionally replace blacklist with synonyms from [this](http://www.synonymer.se/) api
+- optionally replace blacklist with synonyms from [this](http://www.synonymer.se/) api that match the whitelist.
 
 # demo
 [demo](http://codepen.io/KarlPokus/debug/KgPVYb)
